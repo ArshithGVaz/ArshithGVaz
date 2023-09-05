@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arsith G Vaaz</h1>
 <h3 align="center">I have a hunger to learn</h3>
 
+<img src="./game.gif">
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arshithgvaz&label=Profile%20views&color=0e75b6&style=flat" alt="arshithgvaz" /> </p>
 
 - 🔭 I’m currently working on **FastAPI**
